@@ -2,7 +2,7 @@
 **demar-developer/demar-developer is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
  <h1 align="center">👋 Hi there, I'm <a href="https://github.com/demar-developer">Demar Swack</a>!</h1> 
-I am a <i>Full-Stack Developer</i>. I planning and designing all the way to solving real-life problems with code. I am a self-taught developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+I am a <i>Full-Stack Developer</i>. From planning and designing all the way to solving real-life problems with code. I am a self-taught developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 <!-- https://shields.io/ -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/demar-swack/">
