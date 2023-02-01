@@ -18,6 +18,7 @@ I am a <i>Full-Stack Developer</i>. From planning and designing all the way to s
 - 📫 How to reach me : [demar.developer@gmail.com](mailto:demar.developer@gmail.com)
 
 <br>
+
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fsnlaight&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
 
 <!-- https://github.com/demar-developer/github-readme-stats -->
